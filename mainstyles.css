@@ -3,8 +3,11 @@
 @import "paragraph.css";
 @import "heading.css";
 @import "SocMedia.css";
+<<<<<<< HEAD
 @import "Collapsible.css";
 
+=======
+>>>>>>> a0e0b5556244096536ceb2a3c28184dc7068b818
 
 .navbar{
 	background-color: #36454F;

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navbar h1
 {
 	color: #990000;	
@@ -9,13 +10,27 @@
 
 a 
 {
+=======
+.navbar h1{
+	color: #990000;	
+}
+.navbar h2{
+	color: #21ABCD;
+}
+
+a {
+>>>>>>> a0e0b5556244096536ceb2a3c28184dc7068b818
     color: white;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
+<<<<<<< HEAD
 a 
 {
+=======
+a {
+>>>>>>> a0e0b5556244096536ceb2a3c28184dc7068b818
     color: white;
 	float: center;
 	font-size: 1.5em;
@@ -24,6 +39,7 @@ a
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
+<<<<<<< HEAD
 
 *, ::after, ::before 
 {
@@ -37,3 +53,17 @@ a
 
 
 
+=======
+*, ::after, ::before 
+{
+
+    box-sizing: border-box;
+
+}
+*, ::after, ::before 
+{
+
+    box-sizing: border-box;
+
+}
+>>>>>>> a0e0b5556244096536ceb2a3c28184dc7068b818
